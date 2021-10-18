@@ -1,16 +1,10 @@
-# mediawiki-helper README
+# mediawiki-helper
 
-This is the README for your extension "mediawiki-helper". After writing up a brief description, we recommend including the following sections.
+`mediawiki-helper` is a VS Code extension which is still under development. This extension is maily for helping wikiers editing their Wikis at ease. Our extension has a short development history, so there must be tons of bugs an errors. If you encountered any bug or error, or got any suggestion, please feel free to leave issues.
 
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
-
-For example if there is an image subfolder under your extension project workspace:
-
-\!\[feature X\]\(images/feature-x.png\)
-
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+TODO
 
 ## Requirements
 
@@ -35,19 +29,12 @@ Calling out known issues can help limit users opening duplicate issues against y
 
 Users appreciate release notes as you update your extension.
 
-### 1.0.0
+### 0.0.1
 
 Initial release of ...
 
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
 -----------------------------------------------------------------------------------------------------------
+
 ## Following extension guidelines
 
 Ensure that you've read through the extensions guidelines and follow the best practices for creating your extension.
